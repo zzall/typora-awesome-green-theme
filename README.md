@@ -4,7 +4,7 @@
 
 ![效果图](https://tva1.sinaimg.cn/large/006y8mN6ly1h6scpunpbdj31b40u0n19.jpg)
 
-![效果图2](https://tva1.sinaimg.cn/large/006y8mN6ly1h6scr1lk5vj30u01c6433.jpg)
+![效果图2](https://tva1.sinaimg.cn/large/006y8mN6ly1h6scxwok98j30qq11kwhz.jpg)
 
 效果参考掘金的`awesome-green`主题
 
