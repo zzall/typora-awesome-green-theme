@@ -1,18 +1,7 @@
-/* h2样式
-清新绿背景样式 */
-
-/* 已经更改列表
-h1-6标题样式
-h2标题背景样式
-无序列表
-有序列表
-链接
-代码块
-tag标签 */
-
 :root {
 	--side-bar-bg-color: #fafafa;
 	--control-text-color: #777;
+	--major-color: #2f845e;
 }
 
 @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
@@ -126,6 +115,9 @@ body {
 	#write {
 		max-width: 1200px;
 	}
+}
+#write del {
+	color: var(--major-color);
 }
 
 #write > ul:first-child,
