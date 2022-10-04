@@ -367,13 +367,13 @@ tt {
 	padding: 0;
 	padding: 2px 4px 0px 4px;
 	font-size: 0.9em;
-	word-break: break-word;
-	background-color: #fff5f5;
-	color: #ff502c;
 }
 
 code {
 	padding: 0 2px 0 2px;
+	word-break: break-word;
+	background-color: #fff5f5;
+	color: #ff502c;
 }
 
 .md-fences {
