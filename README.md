@@ -1,4 +1,4 @@
-# typro-theme
+# typora-theme
 
 - awesome-green
 
@@ -8,12 +8,12 @@
 
 效果参考掘金的`awesome-green`主题
 
-跟原版`awesome-green`不同的是，还针对`typro`的样式类型做了调整，新增了左侧的菜单栏
+跟原版`awesome-green`不同的是，还针对`typora`的样式类型做了调整，新增了左侧的菜单栏
 还将内容去做了网格背景
 
 具体改动点是以下内容
 
-- typro 的左侧菜单
+- typora 的左侧菜单
   - 默认样式
   - 选中样式
 - typro 的右侧内容区
