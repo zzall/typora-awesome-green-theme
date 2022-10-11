@@ -187,6 +187,7 @@ h4 a,
 h5 a,
 h6 a {
 	border-color: white;
+	color: white;
 }
 h1 a::before,
 h2 a::before,
